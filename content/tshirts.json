@@ -1,0 +1,26 @@
+{
+    "base": "img/content/tshirts/",
+    "parent": "work",
+    "type": "file",
+    "startFromZero": true,
+    "images": [
+        {
+            "location": "leo-shirt",
+            "image": "happy-miguel.min",
+            "title": "Leo Shirt",
+            "files": ["happy-miguel", "posing-miguel"]
+        },
+        {
+            "location": "monster_teddybear",
+            "image": "1.min",
+            "title": "Teddy Bear Monster",
+            "files": ["1"]
+        },
+        {
+            "location": "plant",
+            "image": "1.min",
+            "title": "Plant",
+            "files": ["1", "4", "3", "2"]
+        }
+    ]
+}

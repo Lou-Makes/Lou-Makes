@@ -1,0 +1,49 @@
+{
+    "base": "img/content/other-art/",
+    "parent": "work",
+    "type": "file",
+    "images": [
+        {
+            "location": "",
+            "image": "I_wanna_make_art_5.min",
+            "title": "Selfportrait in Pyjamas",
+            "files": ["I_wanna_make_art_5", "I_wanna_make_art_14", "I_wanna_make_art_15", "joost", "no_face_doggie", "orange_doggie", "tekeningen_animal_flower"]
+        },
+        {
+            "location": "",
+            "image": "I_wanna_make_art_14.min",
+            "title": "Birthday Girl",
+            "files": ["I_wanna_make_art_5", "I_wanna_make_art_14", "I_wanna_make_art_15", "joost", "no_face_doggie", "orange_doggie", "tekeningen_animal_flower"]
+        },
+        {
+            "location": "",
+            "image": "I_wanna_make_art_15.min",
+            "title": "Mother",
+            "files": ["I_wanna_make_art_5", "I_wanna_make_art_14", "I_wanna_make_art_15", "joost", "no_face_doggie", "orange_doggie", "tekeningen_animal_flower"]
+        },
+        {
+            "location": "",
+            "image": "joost.min",
+            "title": "Joost",
+            "files": ["I_wanna_make_art_5", "I_wanna_make_art_14", "I_wanna_make_art_15", "joost", "no_face_doggie", "orange_doggie", "tekeningen_animal_flower"]
+        },
+        {
+            "location": "",
+            "image": "no_face_doggie.min",
+            "title": "No Face Doggie",
+            "files": ["I_wanna_make_art_5", "I_wanna_make_art_14", "I_wanna_make_art_15", "joost", "no_face_doggie", "orange_doggie", "tekeningen_animal_flower"]
+        },
+        {
+            "location": "",
+            "image": "orange_doggie.min",
+            "title": "Orange Doggie",
+            "files": ["I_wanna_make_art_5", "I_wanna_make_art_14", "I_wanna_make_art_15", "joost", "no_face_doggie", "orange_doggie", "tekeningen_animal_flower"]
+        },
+        {
+            "location": "",
+            "image": "tekeningen_animal_flower.min",
+            "title": "Sea Creatures",
+            "files": ["I_wanna_make_art_5", "I_wanna_make_art_14", "I_wanna_make_art_15", "joost", "no_face_doggie", "orange_doggie", "tekeningen_animal_flower"]
+        }
+    ]
+}

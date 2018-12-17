@@ -1,0 +1,49 @@
+{
+    "base": "img/content/photography/",
+    "parent": "work",
+    "type": "file",
+    "images": [
+        {
+            "location": "",
+            "image": "1.min",
+            "title": "Sunny Selfportrait",
+            "files": ["1", "2", "3", "4", "5", "6", "7"]
+        },
+        {
+            "location": "",
+            "image": "2.min",
+            "title": "Family Portrait",
+            "files": ["1", "2", "3", "4", "5", "6", "7"]
+        },
+        {
+            "location": "",
+            "image": "3.min",
+            "title": "Lena in Lochem Nr.1",
+            "files": ["1", "2", "3", "4", "5", "6", "7"]
+        },
+        {
+            "location": "",
+            "image": "4.min",
+            "title": "Lena in Lochem Nr.2",
+            "files": ["1", "2", "3", "4", "5", "6", "7"]
+        },
+        {
+            "location": "",
+            "image": "5.min",
+            "title": "Lena in Lochem Nr.3",
+            "files": ["1", "2", "3", "4", "5", "6", "7"]
+        },
+        {
+            "location": "",
+            "image": "6.min",
+            "title": "Tangled Nr.1",
+            "files": ["1", "2", "3", "4", "5", "6", "7"]
+        },
+        {
+            "location": "",
+            "image": "7.min",
+            "title": "Tangled Nr.2",
+            "files": ["1", "2", "3", "4", "5", "6", "7"]
+        }
+    ]
+}

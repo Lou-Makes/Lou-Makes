@@ -1,0 +1,67 @@
+{
+    "base": "img/content/",
+    "type": "folder",
+    "images": [
+        {
+            "location": "postcards",
+            "image": "main.min",
+            "title": "Postcards"
+        },
+        {
+            "location": "inktober2018",
+            "image": "12.min",
+            "title": "Inktober 2018"
+        },
+        {
+            "location": "animal-art",
+            "image": "cows.min",
+            "title": "Animals"
+        },
+        {
+            "location": "plant-art",
+            "image": "bloemen.min",
+            "title": "Plants"
+        },
+        {
+            "location": "other-art",
+            "image": "no_face_doggie.min",
+            "title": "Other Drawings"
+        },
+        {
+            "location": "sketchbook",
+            "image": "7.min",
+            "title": "Sketchbook"
+        },
+        {
+            "location": "tshirts",
+            "image": "main.min",
+            "title": "T-Shirts"
+        },
+        {
+            "location": "digital-art",
+            "image": "tattoo.min",
+            "ext": "svg",
+            "title": "Digital Art"
+        },
+        {
+            "location": "photography",
+            "image": "3.min",
+            "title": "Photography"
+        },
+        {
+            "location": "textile-work",
+            "image": "main.min",
+            "title": "Textile Products"
+        },
+        {
+            "location": "commissions",
+            "image": "yoga-minds/i-love-yoga.min",
+            "title": "Commissions"
+        },
+        {
+            "location": "work-in-progress",
+            "image": "christmas-cards.min",
+            "title": "Work in Progress"
+        }
+    ]
+}

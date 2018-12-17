@@ -1,0 +1,62 @@
+{
+    "base": "img/content/postcards/",
+    "parent": "work",
+    "type": "file",
+    "startFromZero": true,
+    "images": [
+        {
+            "location": "flowers",
+            "image": "1.min",
+            "title": "Flowers",
+            "files": ["1", "2", "3", "4"]
+        },
+        {
+            "location": "animal-friends",
+            "image": "1.min",
+            "title": "Animal Friends",
+            "files": ["1", "2", "3", "4"]
+        },
+        {
+            "location": "mononoke",
+            "image": "1.min",
+            "title": "Mononoke",
+            "files": ["1", "2", "3", "4"]
+        },
+        {
+            "location": "birthday-cats",
+            "image": "1.min",
+            "title": "Birthday Cats",
+            "files": ["1", "2", "3", "4"]
+        },
+        {
+            "location": "bunnies",
+            "image": "1.min",
+            "title": "Bunnies",
+            "files": ["1", "2", "3", "4"]
+        },
+        {
+            "location": "cactus",
+            "image": "1.min",
+            "title": "Cacti",
+            "files": ["1", "2", "3", "4"]
+        },
+        {
+            "location": "cats",
+            "image": "1.min",
+            "title": "Cats",
+            "files": ["1", "2", "3", "4"]
+        },
+        {
+            "location": "dog-bunnies",
+            "image": "1.min",
+            "title": "Dog Bunnies",
+            "files": ["1", "2", "3", "4"]
+        },
+        {
+            "location": "fall-leaves",
+            "image": "1.min",
+            "title": "Fall Leaves",
+            "files": ["1", "2", "3", "4"]
+        }
+    ]
+}

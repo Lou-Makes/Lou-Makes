@@ -1,0 +1,20 @@
+{
+    "base": "img/content/textile-work/",
+    "parent": "work",
+    "type": "file",
+    "startFromZero": true,
+    "images": [
+        {
+            "location": "selfportrait",
+            "image": "1.min",
+            "title": "Selfportrait",
+            "files": ["1", "2"]
+        },
+        {
+            "location": "plant-tote-bag",
+            "image": "plant-tote-bag.min",
+            "title": "Plant Tote Bag",
+            "files": ["plant-tote-bag", "organic-cotton", "label", "bag-in-use", "front", "back"]
+        }
+    ]
+}

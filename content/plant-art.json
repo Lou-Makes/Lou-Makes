@@ -1,0 +1,73 @@
+{
+    "base": "img/content/plant-art/",
+    "parent": "work",
+    "type": "file",
+    "images": [
+        {
+            "location": "",
+            "image": "bloemen.min",
+            "title": "Fall Leaves",
+            "files": ["bloemen", "bloemen_blauw", "cactus", "make_it_cards_1", "make_it_cards_2", "make_it_cards_3", "make_it_cards_4", "make_it_cards_5", "make_it_cards_8", "sakura_color", "tekeningen_trees"]
+        },
+        {
+            "location": "",
+            "image": "bloemen_blauw.min",
+            "title": "Blue Flowers",
+            "files": ["bloemen", "bloemen_blauw", "cactus", "make_it_cards_1", "make_it_cards_2", "make_it_cards_3", "make_it_cards_4", "make_it_cards_5", "make_it_cards_8", "sakura_color", "tekeningen_trees"]
+        },
+        {
+            "location": "",
+            "image": "cactus.min",
+            "title": "Cacti",
+            "files": ["bloemen", "bloemen_blauw", "cactus", "make_it_cards_1", "make_it_cards_2", "make_it_cards_3", "make_it_cards_4", "make_it_cards_5", "make_it_cards_8", "sakura_color", "tekeningen_trees"]
+        },
+        {
+            "location": "",
+            "image": "make_it_cards_1.min",
+            "title": "Leaves Nr.1",
+            "files": ["bloemen", "bloemen_blauw", "cactus", "make_it_cards_1", "make_it_cards_2", "make_it_cards_3", "make_it_cards_4", "make_it_cards_5", "make_it_cards_8", "sakura_color", "tekeningen_trees"]
+        },
+        {
+            "location": "",
+            "image": "make_it_cards_2.min",
+            "title": "Leaves Nr.2",
+            "files": ["bloemen", "bloemen_blauw", "cactus", "make_it_cards_1", "make_it_cards_2", "make_it_cards_3", "make_it_cards_4", "make_it_cards_5", "make_it_cards_8", "sakura_color", "tekeningen_trees"]
+        },
+        {
+            "location": "",
+            "image": "make_it_cards_3.min",
+            "title": "Leaves Nr.3",
+            "files": ["bloemen", "bloemen_blauw", "cactus", "make_it_cards_1", "make_it_cards_2", "make_it_cards_3", "make_it_cards_4", "make_it_cards_5", "make_it_cards_8", "sakura_color", "tekeningen_trees"]
+        },
+        {
+            "location": "",
+            "image": "make_it_cards_4.min",
+            "title": "Green Trees",
+            "files": ["bloemen", "bloemen_blauw", "cactus", "make_it_cards_1", "make_it_cards_2", "make_it_cards_3", "make_it_cards_4", "make_it_cards_5", "make_it_cards_8", "sakura_color", "tekeningen_trees"]
+        },
+        {
+            "location": "",
+            "image": "make_it_cards_5.min",
+            "title": "Clover",
+            "files": ["bloemen", "bloemen_blauw", "cactus", "make_it_cards_1", "make_it_cards_2", "make_it_cards_3", "make_it_cards_4", "make_it_cards_5", "make_it_cards_8", "sakura_color", "tekeningen_trees"]
+        },
+        {
+            "location": "",
+            "image": "make_it_cards_8.min",
+            "title": "Flowers",
+            "files": ["bloemen", "bloemen_blauw", "cactus", "make_it_cards_1", "make_it_cards_2", "make_it_cards_3", "make_it_cards_4", "make_it_cards_5", "make_it_cards_8", "sakura_color", "tekeningen_trees"]
+        },
+        {
+            "location": "",
+            "image": "sakura_color.min",
+            "title": "Sakura",
+            "files": ["bloemen", "bloemen_blauw", "cactus", "make_it_cards_1", "make_it_cards_2", "make_it_cards_3", "make_it_cards_4", "make_it_cards_5", "make_it_cards_8", "sakura_color", "tekeningen_trees"]
+        },
+        {
+            "location": "",
+            "image": "tekeningen_trees.min",
+            "title": "Purple Trees",
+            "files": ["bloemen", "bloemen_blauw", "cactus", "make_it_cards_1", "make_it_cards_2", "make_it_cards_3", "make_it_cards_4", "make_it_cards_5", "make_it_cards_8", "sakura_color", "tekeningen_trees"]
+        }
+    ]
+}

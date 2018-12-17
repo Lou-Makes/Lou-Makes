@@ -1,0 +1,44 @@
+{
+    "base": "img/content/digital-art/",
+    "parent": "work",
+    "type": "file",
+    "images": [
+        {
+            "location": "",
+            "image": "birthday_cat.min",
+            "title": "Birthday Cats",
+            "files": ["birthday_cat", "lucky_cat", "mononoke", "rabbits", "stamp", "tattoo"]
+        },
+        {
+            "location": "",
+            "image": "lucky_cat.min",
+            "title": "Lucky Cat",
+            "files": ["birthday_cat", "lucky_cat", "mononoke", "rabbits", "stamp", "tattoo"]
+        },
+        {
+            "location": "",
+            "image": "mononoke.min",
+            "title": "Mononoke",
+            "files": ["birthday_cat", "lucky_cat", "mononoke", "rabbits", "stamp", "tattoo"]
+        },
+        {
+            "location": "",
+            "image": "rabbits.min",
+            "title": "Digital Bunnies",
+            "files": ["birthday_cat", "lucky_cat", "mononoke", "rabbits", "stamp", "tattoo"]
+        },
+        {
+            "location": "",
+            "image": "stamp.min",
+            "title": "Birthday Cat Stamp",
+            "files": ["birthday_cat", "lucky_cat", "mononoke", "rabbits", "stamp", "tattoo"]
+        },
+        {
+            "location": "",
+            "image": "tattoo.min",
+            "title": "Tattoo Design",
+            "ext": "svg",
+            "files": ["birthday_cat", "lucky_cat", "mononoke", "rabbits", "stamp", "tattoo"]
+        }
+    ]
+}

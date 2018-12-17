@@ -1,0 +1,77 @@
+{
+    "base": "img/content/sketchbook/",
+    "parent": "work",
+    "type": "file",
+    "images": [
+        {
+            "location": "",
+            "image": "1.min",
+            "title": "Dream Animals",
+            "files": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
+        },
+        {
+            "location": "",
+            "image": "2.min",
+            "title": "Cacti",
+            "files": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
+        },
+        {
+            "location": "",
+            "image": "3.min",
+            "title": "Doggies",
+            "files": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
+        },
+        {
+            "location": "",
+            "image": "4.min",
+            "title": "Chinese Lanterns",
+            "files": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
+        },
+        {
+            "location": "",
+            "image": "5.min",
+            "title": "Sad Girl",
+            "files": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
+        },
+        {
+            "location": "",
+            "image": "6.min",
+            "title": "Cats",
+            "files": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
+        },
+        {
+            "location": "",
+            "image": "7.min",
+            "title": "Sea Creatures in Colour",
+            "files": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
+        }
+    ,
+        {
+            "location": "",
+            "image": "8.min",
+            "title": "Cow & Matryoshka",
+            "files": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
+        }
+    ,
+        {
+            "location": "",
+            "image": "9.min",
+            "title": "Dog Bunnies",
+            "files": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
+        }
+    ,
+        {
+            "location": "",
+            "image": "10.min",
+            "title": "Random Art Is Random",
+            "files": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
+        }
+    ,
+        {
+            "location": "",
+            "image": "11.min",
+            "title": "Cheshire Cat",
+            "files": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
+        }
+    ]
+}

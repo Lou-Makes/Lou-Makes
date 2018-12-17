@@ -1,0 +1,67 @@
+{
+    "base": "img/content/animal-art/",
+    "parent": "work",
+    "type": "file",
+    "images": [
+        {
+            "location": "",
+            "image": "bunnycard.min",
+            "title": "Dog Bunnies",
+            "files": ["bunnycard", "catcard", "catscatscats", "cows", "doggies", "goatcard", "ijsberen", "morovoorkant", "tekeningen-cat", "walvissen"]
+        },
+        {
+            "location": "",
+            "image": "catcard.min",
+            "title": "Cats",
+            "files": ["bunnycard", "catcard", "catscatscats", "cows", "doggies", "goatcard", "ijsberen", "morovoorkant", "tekeningen-cat", "walvissen"]
+        },
+        {
+            "location": "",
+            "image": "catscatscats.min",
+            "title": "Cats Cats Cats",
+            "files": ["bunnycard", "catcard", "catscatscats", "cows", "doggies", "goatcard", "ijsberen", "morovoorkant", "tekeningen-cat", "walvissen"]
+        },
+        {
+            "location": "",
+            "image": "cows.min",
+            "title": "Cows",
+            "files": ["bunnycard", "catcard", "catscatscats", "cows", "doggies", "goatcard", "ijsberen", "morovoorkant", "tekeningen-cat", "walvissen"]
+        },
+        {
+            "location": "",
+            "image": "doggies.min",
+            "title": "Doggies",
+            "files": ["bunnycard", "catcard", "catscatscats", "cows", "doggies", "goatcard", "ijsberen", "morovoorkant", "tekeningen-cat", "walvissen"]
+        },
+        {
+            "location": "",
+            "image": "goatcard.min",
+            "title": "Goats",
+            "files": ["bunnycard", "catcard", "catscatscats", "cows", "doggies", "goatcard", "ijsberen", "morovoorkant", "tekeningen-cat", "walvissen"]
+        },
+        {
+            "location": "",
+            "image": "ijsberen.min",
+            "title": "Polar Bears",
+            "files": ["bunnycard", "catcard", "catscatscats", "cows", "doggies", "goatcard", "ijsberen", "morovoorkant", "tekeningen-cat", "walvissen"]
+        },
+        {
+            "location": "",
+            "image": "morovoorkant.min",
+            "title": "Wolves",
+            "files": ["bunnycard", "catcard", "catscatscats", "cows", "doggies", "goatcard", "ijsberen", "morovoorkant", "tekeningen-cat", "walvissen"]
+        },
+        {
+            "location": "",
+            "image": "tekeningen-cat.min",
+            "title": "Girl & Cat",
+            "files": ["bunnycard", "catcard", "catscatscats", "cows", "doggies", "goatcard", "ijsberen", "morovoorkant", "tekeningen-cat", "walvissen"]
+        },
+        {
+            "location": "",
+            "image": "walvissen.min",
+            "title": "Whales",
+            "files": ["bunnycard", "catcard", "catscatscats", "cows", "doggies", "goatcard", "ijsberen", "morovoorkant", "tekeningen-cat", "walvissen"]
+        }
+    ]
+}

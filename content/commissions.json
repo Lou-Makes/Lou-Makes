@@ -1,0 +1,56 @@
+{
+    "base": "img/content/commissions/",
+    "parent": "work",
+    "type": "file",
+    "startFromZero": true,
+    "images": [
+        {
+            "location": "christmas-cards",
+            "image": "christmas-cards.min",
+            "title": "Christmas Cards",
+            "files": ["christmas-cards", "christmas-cards-packaging", "star", "star-and-sheep"]
+        },
+        {
+            "location": "yoga-minds",
+            "image": "i-love-yoga.min",
+            "title": "Yoga Minds",
+            "files": ["i-love-yoga", "lose-your-mind-1", "lose-your-mind-2", "lose-your-mind-3"]
+        },
+        {
+            "location": "massage-minds",
+            "image": "massage-minds.min",
+            "title": "Massage Minds",
+            "files": ["massage-minds"]
+        },
+        {
+            "location": "",
+            "image": "5.min",
+            "title": "Goodbye Card",
+            "files": ["5", "coffee_pepper", "sarka_filip", "verjaardag_nienke", "verjaardag_nienke2"]
+        },
+        {
+            "location": "",
+            "image": "coffee_pepper.min",
+            "title": "Coffee & Pepper",
+            "files": ["coffee_pepper", "sarka_filip", "verjaardag_nienke", "verjaardag_nienke2", "5"]
+        },
+        {
+            "location": "",
+            "image": "sarka_filip.min",
+            "title": "Wedding Card",
+            "files": ["sarka_filip", "verjaardag_nienke", "verjaardag_nienke2", "5", "coffee_pepper"]
+        },
+        {
+            "location": "",
+            "image": "verjaardag_nienke.min",
+            "title": "Birthday Card Nr.1",
+            "files": ["verjaardag_nienke", "verjaardag_nienke2", "5", "coffee_pepper", "sarka_filip"]
+        },
+        {
+            "location": "",
+            "image": "verjaardag_nienke2.min",
+            "title": "Birthday Card Nr.2",
+            "files": ["verjaardag_nienke2", "5", "coffee_pepper", "sarka_filip", "verjaardag_nienke"]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "base": "img/content/work-in-progress/",
+    "parent": "work",
+    "type": "file",
+    "images": [
+        {
+            "location": "",
+            "image": "christmas-cards.min",
+            "title": "Making of Christmas Cards",
+            "files": ["christmas-cards"]
+        }
+    ]
+}
